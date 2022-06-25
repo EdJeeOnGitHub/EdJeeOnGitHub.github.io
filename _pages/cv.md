@@ -18,20 +18,23 @@ Education
 Experience
 ======
 * 2019: Research Assistant
-  * Professor Rachael Meager, LSE
-  * Worked on Bayesian spike and slab models, modelling data transformations 
+  * PI: Professor Rachael Meager (LSE)
+  * Worked on Bayesian spike and slab models 
 
 * 2020: Predoctoral Research Fellow
-  * Professor Melissa Dell, Harvard University
+  * PI: Professor Melissa Dell (Harvard University)
   * Statistical models to digitise archival Japanese World War II documents
+
+* 2022-Current: Graduate Research Assistant
+  * PIs: Witold Wiecek, Rachel Glennerster, Michael Kremer (DIL)
+  * Write Stan code across a range of projects, such as hierarchical survival models and generalised selection models
   
 Skills
 ======
-* Coding
-  * R (Advanced)
-  * Stan (Advanced)
-  * Python (Intermediate)
-  * Bash/Git/Docker (Proficient)
+* R (Advanced)
+* Stan (Advanced)
+* Python (Intermediate)
+* Bash/Git/Docker (Proficient)
 
 Publications
 ======
