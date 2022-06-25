@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a graduate student in the Kenneth C. Griffin Department of Economics at UChicago.
+I'm a graduate student in the [Kenneth C. Griffin Department of Economics](https://economics.uchicago.edu/) at UChicago.
 
 
 My interests are in development economics and econometrics, with a particular focus on meta-evidence; adaptive trials; and synthesis of experimental and observational evidence. 
