@@ -6,8 +6,9 @@ author_profile: true
 ---
 
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**bacondecomp**
+[Bacon-Goodman Decomposition R Package](https://github.com/evanjflack/bacondecomp)
+
+
+

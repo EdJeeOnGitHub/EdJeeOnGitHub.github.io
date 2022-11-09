@@ -1,7 +1,7 @@
 ---
 title: "Big Data Tools for Economics"
 collection: teaching
-type: "Undergraduate course"
+type: "Third Year Undergraduate course"
 permalink: /teaching/2021-Fall-teaching-1
 venue: "UChicago, Kenneth Griffin Department of Economics"
 date: 2021-07-20
