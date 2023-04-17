@@ -13,9 +13,9 @@ with Anne Karing and Karim Naguib (Updated draft coming soon!)
 
 ## Conference Publications
 
-**Treatment and Welfare Learning for Policymakers**
+**[Treatment and Welfare Learning for Policymakers](http://EdJeeOnGitHub.github.io/files/real-treatment-welfare-learning.pdf)**
 *ReALML @ ICML2022, CoDE@MIT*
-Paper: [TreatmentAndWelfareLearning.pdf](http://EdJeeOnGitHub.github.io/files/real-treatment-welfare-learning.pdf)  
+  
 
 
 
