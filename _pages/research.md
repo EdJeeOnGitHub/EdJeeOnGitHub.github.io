@@ -6,9 +6,8 @@ permalink: /research/
 
 ## Working Papers
 
-
-**Optimal Incentives in the Presence of Social Norms: Experimental Evidence from Kenya**
-with Anne Karing and Karim Naguib (Updated draft coming soon!)
+[**Optimal Policy in the Presence of Social Image Concerns: Experimental Evidence from Kenya**](http://EdJeeOnGitHub.github.io/files/Optimal_Incentives_Social_Norms.pdf)
+with Anne Karing and Karim Naguib 
 
 
 ## Conference Publications
