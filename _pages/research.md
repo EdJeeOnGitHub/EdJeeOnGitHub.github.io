@@ -29,6 +29,11 @@ with Subhash Chandir, Rachel Glennerster, Maryiam Haroon, and Danya Arif Siddiqi
 **Data Transforms Are Models**
 with Rachael Meager
 
+**Nudging at Scale: Combining Random and Quasi-Random
+Variation to Evaluate the Scale-Up of Incentives for
+Immunization in Pakistan**
+with Subhash Chandir, Rachel Glennerster, Maryiam Haroon, Mubarak
+Taighoon Shah, and Danya Arif Siddiqi
 
 <!-- ---
 layout: archive
