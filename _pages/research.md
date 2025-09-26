@@ -5,8 +5,7 @@ permalink: /research/
 
 
 ## Working Papers
-
-[**Optimal Policy in the Presence of Social Image Concerns: Experimental Evidence from Kenya**](http://EdJeeOnGitHub.github.io/files/Optimal_Incentives_Social_Norms.pdf)
+[**Social Image and the Social Multiplier: Experimental Evidence from Community Deworming in Kenya**](http://EdJeeOnGitHub.github.io/files/Optimal_Incentives_Social_Norms.pdf)
 with Anne Karing and Karim Naguib 
 
 [**Nudging at Scale: Combining Random and Quasi-Random Variation to Evaluate the Scale-Up of Incentives for Immunization in Pakistan**](http://EdJeeOnGitHub.github.io/files/mCCT_program_paper-2024-09-13.pdf)
