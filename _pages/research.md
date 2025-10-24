@@ -28,7 +28,7 @@ with Subhash Chandir, Rachel Glennerster, Maryiam Haroon, and Danya Arif Siddiqi
 ## Work In Progress
 
 **Graduation Programs: A Bayesian Meta-Analysis**
-with Samantha Carter, Dean Karlan, JuliusRuschenpohler, and Patrick Premand
+with Samantha Carter, Dean Karlan, Julius Ruschenpohler, and Patrick Premand
 
 **Data Transforms Are Models**
 with Rachael Meager
