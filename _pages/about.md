@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a PhD candidate in the [Kenneth C. Griffin Department of Economics](https://economics.uchicago.edu/) at the University of Chicago, working 
-on topics in development economics and econometrics.
+on topics in development economics and applied econometrics.
 
 My CV is available [here](https://www.dropbox.com/scl/fi/cbjqzse63sopnmz1ebhsa/jee-cv.pdf?rlkey=rf82yiv0lwl4gi099i3v05crr&st=4ya142nc&dl=0).
 

@@ -14,12 +14,12 @@ Taighoon Shah, and Danya Arif Siddiqi
 
 ## Conference Publications
 
-**[Does Childhood Immunization Rebound after Extreme Shocks? Evidence from Floods and Strikes in Pakistan](http://EdJeeOnGitHub.github.io/files/sindh-flood-strikes-aea-pp.pdf)**
+[**Does Childhood Immunization Rebound after Extreme Shocks? Evidence from Floods and Strikes in Pakistan**](http://EdJeeOnGitHub.github.io/files/sindh-flood-strike-aea-pp.pdf)
 *ASSA 2023/[AEA P&P (2023)](https://doi.org/10.1257/pandp.20231110)*
 with Subhash Chandir, Rachel Glennerster, Maryiam Haroon, and Danya Arif Siddiqi
 
 
-**[Treatment and Welfare Learning for Policymakers](http://EdJeeOnGitHub.github.io/files/real-treatment-welfare-learning.pdf)**
+[**Treatment and Welfare Learning**](http://EdJeeOnGitHub.github.io/files/real-treatment-welfare-learning.pdf)
 *ReALML @ ICML2022, CoDE@MIT*
   
 
@@ -27,6 +27,8 @@ with Subhash Chandir, Rachel Glennerster, Maryiam Haroon, and Danya Arif Siddiqi
 
 ## Work In Progress
 
+**Graduation Programs: A Bayesian Meta-Analysis**
+with Samantha Carter, Dean Karlan, Julius Ruschenpohler, and Patrick Premand
 
 **Data Transforms Are Models**
 with Rachael Meager
