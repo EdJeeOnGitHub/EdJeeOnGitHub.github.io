@@ -3,6 +3,24 @@ title: Research
 permalink: /research/
 ---
 
+## Job Market Paper
+
+[**Traps and Transfers**](https://www.dropbox.com/scl/fi/ueyypknvacsi0lv41z7d6/edjee-jmp.pdf?rlkey=9kfq788d3gn73dr13jqpdg56w&st=i1rz3q65&dl=0)
+
+Abstract: _Do poverty traps exist? This question is central to development
+economics as it implies initial conditions can have lasting effects on long-run
+prosperity. I estimate the existence and prevalence of poverty traps using 
+harmonized microdata from 27 randomized control trials covering 75,000
+households. By estimating how poor households' assets evolve over time,
+accounting for differences in their ability and consumption-savings decisions, I
+find that poverty traps are widespread: 60% of studies show signs of them.  Yet
+within a study, on average, only 25% of households are actually trapped. This
+is driven by differences in productivity and forward-looking consumption
+responses which allow households to preemptively invest and escape low-asset
+states. Using a calibrated household growth model, I show that optimal transfer
+policy reflects this heterogeneity - targeting the poorest households rather
+than those near the trap threshold in over 95% of contexts._
+
 
 ## Working Papers
 [**Social Image and the Social Multiplier: Experimental Evidence from Community Deworming in Kenya**](http://EdJeeOnGitHub.github.io/files/Optimal_Incentives_Social_Norms.pdf)
