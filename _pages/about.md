@@ -13,7 +13,7 @@ on topics in development economics and applied econometrics.
 
 My CV is available [here](https://www.dropbox.com/scl/fi/cbjqzse63sopnmz1ebhsa/jee-cv.pdf?rlkey=rf82yiv0lwl4gi099i3v05crr&st=4ya142nc&dl=0).
 
-__I am on the 2025-2026 job market.__
+I will be joining the [University of Oslo](https://www.sv.uio.no/econ/english/) as an Assistant Professor of Economics in 2028 after a two-year postdoctoral fellowship at [GPRL](https://www.kellogg.northwestern.edu/academics-research/global-poverty-research-lab/) at Northwestern.
 
 
 In my [Job Market Paper](https://www.dropbox.com/scl/fi/ueyypknvacsi0lv41z7d6/edjee-jmp.pdf?rlkey=9kfq788d3gn73dr13jqpdg56w&st=n2w5x6m5&dl=0), I investigate the existence and prevalence of poverty traps in low-income contexts.
